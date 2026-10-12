@@ -1,6 +1,6 @@
 # clotting
 
-small aio (tiling/floating/canvas) wayland compositor in C on wlroots, plus a light desktop around it: launcher, notifications, lock screen, wallpaper and a settings editor
+Tiling/floating Wayland compositor and desktop in C
 
 **Source:** https://git.thromb.us/eve/clotting
 **Mirror:** https://codeberg.org/hemepanel/clotting
